@@ -1,0 +1,16 @@
+{
+  "name": "afreg",
+  "scripts": {
+  },
+  "env": {
+    "MAIL_DRIVER": "smtp"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
