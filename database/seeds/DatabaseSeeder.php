@@ -86,18 +86,7 @@ class DatabaseSeeder extends Seeder
 		 DB::table('servicios')->insert(['strDescripcion' => 'sistemas de navegación aerea', 'sector_id' => 1]);	
 		 DB::table('servicios')->insert(['strDescripcion' => 'abastecimiento de materiales militares', 'sector_id' => 1]);	
 
-		 DB::table('servicios')->insert(['strDescripcion' => 'disño de aeronaves', 'sector_id' => 2]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'disñ de naves espaciales', 'sector_id' => 2]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'disñde cohetes', 'sector_id' => 2]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'equis de propulcion aerea', 'sector_id' => 3]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'sists de navegación aerea', 'sector_id' => 4]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'abasento de materiales militares', 'sector_id' => 5]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'diseo de aeronaves', 'sector_id' => 7]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'dise naves espaciales', 'sector_id' => 6]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'diseohetes', 'sector_id' => 8]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'equie propulcion aerea', 'sector_id' => 9]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'sists de navegación aerea', 'sector_id' => 10]);	
-		 DB::table('servicios')->insert(['strDescripcion' => 'abasecimiento de materiales militares', 'sector_id' => 11]);	
+			
 		 
     }
 }
